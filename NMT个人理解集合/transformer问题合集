@@ -1,10 +1,6 @@
-# fairseq transformer训练中的一些问题
 
-------
 
 这两天看fairseq transformer的代码，并在服务器用transformer跑实验。今天遇到一些问题，和师兄进行了一些交流，记录下来。
-
-另一篇梳理nlp中的一些英文名词的还在写，整理好再发布。
 
 ### transformer中的数据的流向和形式的变化？
 
