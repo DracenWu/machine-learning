@@ -64,7 +64,7 @@ mask过程是用一个只有0和1的矩阵M，和另一个矩阵V按元素相乘
 
 ## greedy search（贪心搜索）
 
-在神经机器翻译RNN结构的decoder部分，我们知道单词是以时间步t一个一个推测出的。其实，在推测单词之前，会出现很多单词的候选项（candidate），而greedy search则是逐词选择概率最大的词。![nlp1](C:\Users\dragon\Desktop\mds\nlp1.png)
+在神经机器翻译RNN结构的decoder部分，我们知道单词是以时间步t一个一个推测出的。其实，在推测单词之前，会出现很多单词的候选项（candidate），而greedy search则是逐词选择概率最大的词。![nlp1](nlp1.png)
 
 图片来源https://blog.csdn.net/qq_16234613/article/details/83012046
 
